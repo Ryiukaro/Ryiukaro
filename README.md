@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Ryiukaro
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Ryiukaro/Ryiukaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m José Vitor, tenho 17 anos
+- 👀 I’m interested in  me tornar um programador de qualidade
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on projetos web
+- 📫 Rua São Gonçalo dos Campos, Salvador - BA
